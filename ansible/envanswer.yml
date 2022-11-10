@@ -23,7 +23,7 @@ temp_vm: "temp104"
 portgroup: "vlan104"
 vm_cidr: "10.104.0"
 
-num_nodes: 6
+num_nodes: 1
 
 # Kubernetes / OS information
 pod_cidr: "10.244.0.0/16"
